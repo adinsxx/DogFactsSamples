@@ -1,0 +1,28 @@
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/DogFactsSamples.csproj.CoreCompileInputs.cache
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/DogFactsSamples.AssemblyInfoInputs.cache
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/DogFactsSamples.AssemblyInfo.cs
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/DogFactsSamples.dll
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/ref/DogFactsSamples.dll
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/DogFactsSamples.pdb
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/bin/Debug/netstandard2.0/DogFactsSamples.deps.json
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/bin/Debug/netstandard2.0/DogFactsSamples.dll
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/bin/Debug/netstandard2.0/ref/DogFactsSamples.dll
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/bin/Debug/netstandard2.0/DogFactsSamples.pdb
+/Users/mgreen14/Projects/DogFactsSamples/DogFactsSamples/obj/Debug/netstandard2.0/XamlC.stamp
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\bin\Debug\netstandard2.0\DogFactsSamples.deps.json
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\bin\Debug\netstandard2.0\DogFactsSamples.dll
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\bin\Debug\netstandard2.0\DogFactsSamples.pdb
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.csproj.AssemblyReference.cache
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.AssemblyInfo.cs
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.dll
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\refint\DogFactsSamples.dll
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.pdb
+C:\Users\Connor\Documents\.MOBILE DEVELOPMENT\DogFactsSamples\DogFactsSamples\obj\Debug\netstandard2.0\ref\DogFactsSamples.dll

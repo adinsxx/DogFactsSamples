@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZSMZWPmK0NiK+6gEMI2BVUbmxZXzvEE/EKyA6WjmzZsyIqUQT26kc9D8HnAQ03gfCYqqPpcgPwPj3XwRTEFTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\Documents\\.MOBILE DEVELOPMENT\\DogFactsSamples\\DogFactsSamples.iOS\\DogFactsSamples.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

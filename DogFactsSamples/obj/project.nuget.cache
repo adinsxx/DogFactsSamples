@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5Wf40CccSPq82SaWVGdTaIj2o3Hkz1op1q6SNXRABRAj065WB2L8ItzOhUwrWqz83r06e2xaLfutray64H/nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\Documents\\.MOBILE DEVELOPMENT\\DogFactsSamples\\DogFactsSamples\\DogFactsSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
